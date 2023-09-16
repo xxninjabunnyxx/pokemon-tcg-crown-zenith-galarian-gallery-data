@@ -1,0 +1,92 @@
+---
+id: swsh12pt5gg-GG50
+name: Darkrai VSTAR
+supertype: Pokémon
+subtypes:
+- VSTAR
+hp: '270'
+types:
+- Darkness
+evolvesFrom: Darkrai V
+rules:
+- 'VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize
+  cards.'
+abilities:
+- name: Star Abyss
+  text: During your turn, you may put up to 2 Item cards from your discard pile into
+    your hand. (You can't use more than 1 VSTAR Power in a game.)
+  type: Ability
+attacks:
+- name: Dark Pulse
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30+
+  text: This attack does 30 more damage for each Darkness Energy attached to all of
+    your Pokémon.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh12pt5gg
+  name: Crown Zenith Galarian Gallery
+  series: Sword & Shield
+  printedTotal: 70
+  total: 70
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRZ
+  releaseDate: 2023/01/20
+  updatedAt: 2023/01/19 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12pt5gg/symbol.png
+    logo: https://images.pokemontcg.io/swsh12pt5gg/logo.png
+number: GG50
+artist: Pani Kobayashi
+rarity: Rare Holo VSTAR
+nationalPokedexNumbers:
+- 491
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12pt5gg/GG50.png
+  large: https://images.pokemontcg.io/swsh12pt5gg/GG50_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12pt5gg-GG50
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 12.0
+      mid: 15.95
+      high: 40.0
+      market: 15.59
+      directLow: 19.5
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG50
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 21.51
+    lowPrice: 19.0
+    trendPrice: 21.01
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 19.0
+    avg1: 21.5
+    avg7: 23.07
+    avg30: 21.3
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

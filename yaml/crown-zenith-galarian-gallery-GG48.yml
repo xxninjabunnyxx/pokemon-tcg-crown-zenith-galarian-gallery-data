@@ -1,0 +1,92 @@
+---
+id: swsh12pt5gg-GG48
+name: Zacian V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '220'
+types:
+- Psychic
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+abilities:
+- name: Roar of the Sword
+  text: Once during your turn, you may search your deck for a Psychic Energy card
+    and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability,
+    your turn ends.
+  type: Ability
+attacks:
+- name: Storm Slash
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 60+
+  text: This attack does 30 more damage for each Psychic Energy attached to this Pokémon.
+weaknesses:
+- type: Metal
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh12pt5gg
+  name: Crown Zenith Galarian Gallery
+  series: Sword & Shield
+  printedTotal: 70
+  total: 70
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRZ
+  releaseDate: 2023/01/20
+  updatedAt: 2023/01/19 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12pt5gg/symbol.png
+    logo: https://images.pokemontcg.io/swsh12pt5gg/logo.png
+number: GG48
+artist: Hataya
+rarity: Rare Holo V
+nationalPokedexNumbers:
+- 888
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh12pt5gg/GG48.png
+  large: https://images.pokemontcg.io/swsh12pt5gg/GG48_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12pt5gg-GG48
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 9.97
+      mid: 14.5
+      high: 29.99
+      market: 11.34
+      directLow: 14.19
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12pt5gg-GG48
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 17.91
+    lowPrice: 13.0
+    trendPrice: 17.83
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 13.0
+    avg1: 17.49
+    avg7: 17.24
+    avg30: 17.85
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
